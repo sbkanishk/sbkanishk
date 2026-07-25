@@ -5,7 +5,7 @@
 ⚽ Football mindset: discipline & teamwork  
 🤝 Open to collaboration  
 
-📫 kanishk.sb22@gmail.com
+📫 shashibhushankanishk@gmail.com
 
 
 <!---

@@ -69,6 +69,14 @@ A portfolio site built with HTML, CSS, and JavaScript to highlight projects, ski
 
 ---
 
+### 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sbkanishk&theme=flat&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+</p>
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -82,4 +90,4 @@ A portfolio site built with HTML, CSS, and JavaScript to highlight projects, ski
 
 ---
 
-<p align="center">📫 Reach me at <b>shashibhushankanishk@gmail.com</b></p>
+<p align="center">📫 Reach me at <a href="mailto:shashibhushankanishk@gmail.com"><b>shashibhushankanishk@gmail.com</b></a></p>

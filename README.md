@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Kanishk 👋</h1>
-<h3 align="center">Applied Mathematics student • Data-driven thinker • Footballer at heart</h3>
+<h3 align="center">Applied Mathematics student • Data-driven thinker • Builder</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=2E86DE&center=true&vCenter=true&width=500&lines=Math+student+by+day%2C+footballer+by+evening;Building+with+data+%26+code;Always+exploring+something+new" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=2E86DE&center=true&vCenter=true&width=500&lines=Math+student+exploring+data+%26+code;Building+with+data+%26+code;Always+exploring+something+new" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -19,7 +19,6 @@
 - 🎓 Applied Mathematics student at **NIT Surat**, Gujarat
 - 🔍 Interested in **data analysis** and **software development**
 - 🕸️ Enjoy building interactive, visually-styled web projects
-- ⚽ Football mindset — discipline & teamwork carry over into how I work
 - 📸 Also into photography and sports outside of tech
 - 🤝 Open to collaboration
 
@@ -44,6 +43,9 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ---
 

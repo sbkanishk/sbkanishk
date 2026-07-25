@@ -72,11 +72,6 @@ A portfolio site built with HTML, CSS, and JavaScript to highlight projects, ski
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sbkanishk&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sbkanishk&layout=compact&hide_border=true" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sbkanishk&hide_border=true" />
 </p>
 
